@@ -1,2 +1,3 @@
 # uOTTAHACK
-hackathon tings
+hackathon 
+Hopefully we think of something to do
